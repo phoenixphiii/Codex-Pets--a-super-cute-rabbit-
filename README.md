@@ -8,3 +8,4 @@ Place this folder into `C:\Users\***\.codex\pets`
 - Super cute rabbit character: 兔兔小酪弟
 - Lightweight & easy to use
 - Lovely idle & interactive behaviors
+![Uploading spritesheet.webp…]()
